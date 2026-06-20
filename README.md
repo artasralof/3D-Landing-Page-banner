@@ -21,7 +21,7 @@ CSS Animations
 Preview
 ## Preview
 
-![Project Preview](screenshot.png)
+![Project Preview](Screenshot 2026-06-19 161429.png)
 
 
 Live Demo
