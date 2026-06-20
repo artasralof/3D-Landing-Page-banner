@@ -20,7 +20,8 @@ CSS Grid
 CSS Animations
 Preview
 ## Preview
-Screenshot 2026-06-19 161429.png
+![Preview](Screenshot%202026-06-19%20161429.png)
+
 
 
 Live Demo
