@@ -19,7 +19,10 @@ Flexbox
 CSS Grid
 CSS Animations
 Preview
-(Add a screenshot of the project here)
+## Preview
+
+![Project Preview](screenshot.png)
+
 
 Live Demo
 You can view the live version here:
